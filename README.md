@@ -1,2 +1,2 @@
-# NintendoMimi
-LOGICIEL POUR HACK DES CONSOLES MINI DE NINTENDO AU https://github.com/ludopotte/NintendoMimi/releases
+# Nintendo
+LOGICIEL POUR HACK DES CONSOLES DE NINTENDO AU https://github.com/ludopotte/Nintendo/releases/
